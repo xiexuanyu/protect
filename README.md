@@ -1,1 +1,1 @@
-一个网盘下载加速工具
+The tool that speeds up cloud storage downloads
